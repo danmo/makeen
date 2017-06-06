@@ -13,7 +13,6 @@ Testing documentation solutions for "./packages/makeen-router/src/routers/" path
 * [Docdown](https://github.com/danmo/makeen/blob/master/docs/generated/MongoResourceRouter(docdown).md)
 * [Documentation.js](https://github.com/danmo/makeen/blob/master/docs/generated/MongoResourceRouter(documentation).md)
 * [ESDoc](https://danmo.github.io/makeen/docs/generated/esdoc/)
-* [YUIDoc]() TBA
 
 ----------
 
