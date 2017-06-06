@@ -1,6 +1,8 @@
 ---
-title: MongoResourceRouter.js API documentation
+title: Document Center
 ---
+
+# MongoResourceRouter.js API documentation
 
 <!-- div class="toc-container" -->
 
