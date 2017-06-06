@@ -1,0 +1,9 @@
+{
+    "source": "./packages/makeen-router/src/routers/",
+    "destination": "./docs/generated/esdoc/",
+    "experimentalProposal": {
+      "classProperties": true,
+      "objectRestSpread": true,
+      "decorators": true
+    }
+}
