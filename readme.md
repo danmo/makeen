@@ -9,6 +9,12 @@ backend performance monitoring, CLI and cloud (AW & Azure) virtual instances man
 
 The majority of makeen plugins are hosted in the current mono-repository.
 
+Testing documentation solutions for "./packages/makeen-router/src/routers/" path:
+* [Docdown](./docs/generated/MongoResourceRouter(docdown).md)
+* [Documentation.js](./docs/generated/MongoResourceRouter(documentation).md)
+* [ESDoc](https://danmo.github.io/makeen/docs/generated/esdoc/)
+* [YUIDoc]() TBA
+
 ----------
 
 
@@ -33,7 +39,6 @@ Table of Contents
 * [Credits](#credits)
 * [License](#license)
 * [Get in Touch](#get-in-touch)
-
 
 ----------
 
